@@ -1,0 +1,22 @@
+{
+  "name": "testtdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StanislavGurets/testtdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StanislavGurets/testtdd/issues"
+  },
+  "homepage": "https://github.com/StanislavGurets/testtdd#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
